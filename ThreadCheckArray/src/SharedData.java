@@ -6,8 +6,8 @@ public class SharedData
 	private final int b;
 	
 	public SharedData(int[] array, int b) {
-		
-		this.array = array;
+		//kmnnjkjs
+		this.array =    array;
 		this.b = b;
 	}
 
